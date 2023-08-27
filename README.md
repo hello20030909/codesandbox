@@ -1,5 +1,7 @@
 # xray for CodeSandbox
 
+# CodeSandbox不用关联本仓库，直接把文件传上去
+
 在 CodeSandbox 部署 xray 节点
 
 ## 项目特点
